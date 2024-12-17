@@ -175,8 +175,8 @@ def about():
         title="About",
         message="""This is a program to help with anvil minigame in TerraFirmaCraft, a Minecraft mod made by Robert "Bioxx" Anthony, Amanda "Kittychanley" Halek, and others.
 
-Program author: dzhemvrot
-Program version: 1.0
+Program author: dzhemvrot (enhanced by Taeko-ar)
+Program version: 2.0
 Program restributed using GPL-3.0 license""",
     )
 
